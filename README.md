@@ -3,7 +3,7 @@ I'm a junior fullstack web developer with 2 years expereince (Fun Fact! I have j
 
 ![620A4608](https://user-images.githubusercontent.com/56705400/173844493-32980f1e-b68c-4024-99e3-c227385179e6.jpg)
 
-
+Feel free to look through some of my repositories, my proudest work are [My Portfolio](https://github.com/Philip-Clark/old_Porfolio), [Elliot's coffee shop](https://github.com/Philip-Clark/Elliots_Coffee_Shop), and [SimpleAndroidClockApp](https://github.com/Philip-Clark/SimpleAndroidClockApp).
 <!---
 Philip-Clark/Philip-Clark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
