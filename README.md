@@ -1,7 +1,7 @@
 ## Hi there! I'm Philip Clark
 At 20 years old, I'm a junior fullstack web developer with 2 years expereince (Fun Fact! I have just over 6 years expereince programming!)
 <br><br>
-Feel free to look through some of my repositories, my proudest work are [My Website](https://github.com/Philip-Clark/philip-clark.github.io),[Android Trip Planner App](https://github.com/Philip-Clark/trip-planner), [My old Portfolio](https://github.com/Philip-Clark/old_Porfolio), [Elliot's coffee shop](https://github.com/Philip-Clark/Elliots_Coffee_Shop), [Quotrr](https://github.com/Philip-Clark/Quotrr), and [SimpleAndroidClockApp](https://github.com/Philip-Clark/SimpleAndroidClockApp).
+Feel free to look through some of my repositories, my proudest work are [My Website](https://github.com/Philip-Clark/philip-clark.github.io), [Android Trip Planner App](https://github.com/Philip-Clark/trip-planner), [My old Portfolio](https://github.com/Philip-Clark/old_Porfolio), [Elliot's coffee shop](https://github.com/Philip-Clark/Elliots_Coffee_Shop), [Quotrr](https://github.com/Philip-Clark/Quotrr), and [SimpleAndroidClockApp](https://github.com/Philip-Clark/SimpleAndroidClockApp).
 
 
 
