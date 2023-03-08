@@ -28,8 +28,25 @@ I'm looking to launch my career with a purpose driven company that utilizes indu
 [ContactPhilipClark@protonMail.com](mailto:contactPhilipClark@protonMail.com)
 <br>[LinkedIn](https://www.linkedin.com/in/-philip-clark/)
 <br><br>
-<!-- ## Stats: -->
+## Stats:
+<a href="https://react.org/" target="_blank"><img src="https://img.shields.io/badge/-React.js-white?logo=react&logoColor=00DC82&style=for-the-badge&color=grey" alt="react"/></a>
+<a href="https://php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-white.svg?style=for-the-badge&logo=php&logoColor=777BB4&color=grey" alt="php"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=javascript&color=grey" alt="javascript"/></a>
 
+
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-tailwind css*-white?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge&color=grey" alt="tailwindcss"/></a>
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge&color=grey" alt="html5"/></a>
+<a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=1572B6&style=for-the-badge&color=grey" alt="css3"/></a>
+
+
+<a href="https://webpack.js.org/" target="_blank"><img src="https://img.shields.io/badge/-webpack-white?logo=webpack&logoColor=8DD6F9&style=for-the-badge&color=grey" alt="webpack"/></a>
+<a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/-npm-white?logo=npm&logoColor=CB3837&style=for-the-badge&color=grey" alt="npm"/></a>
+<a href="https://yarnpkg.com/" target="_blank"><img src="https://img.shields.io/badge/-yarn-white?logo=yarn&logoColor=2C8EBB&style=for-the-badge&color=grey" alt="yarn"/></a>
+
+<a href="https://wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/-wordpress-white?logo=wordpress&logoColor=21759B&style=for-the-badge&color=grey" alt="wordpress"/></a>
+
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-mysql-white?logo=mysql&logoColor=4479A1&style=for-the-badge&color=grey" alt="mysql"/></a>
+<a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/-mariadb-white?logo=mariadb&logoColor=003545&style=for-the-badge&color=grey" alt="mariadb"/></a>
 
 <!-- <br><br><br>
 ![620A4608](https://user-images.githubusercontent.com/56705400/173844493-32980f1e-b68c-4024-99e3-c227385179e6.jpg) -->
