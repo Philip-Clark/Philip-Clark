@@ -1,9 +1,40 @@
-## Hi there! I'm Philip Clark
-At 20 years old, I'm a junior fullstack web developer with 2 years expereince (Fun Fact! I have just over 6 years expereince programming!)
-<br><br><br>
-![620A4608](https://user-images.githubusercontent.com/56705400/173844493-32980f1e-b68c-4024-99e3-c227385179e6.jpg)
+# Howdy! I'm [Philip Clark](https://philip-clark.github.io/)
 
+**I'm a junior fullstack web developer with over 2 years expereince (Fun Fact! I have just over 6 years expereince programming!).**<br><br>
+I'm looking to launch my career with a purpose driven company that utilizes industry leading tools, if you have a position like that, leads on a position, or simply want to chat, feel free to send a connection request on [LinkedIn](https://www.linkedin.com/in/-philip-clark/) or send me an email at: [contactPhilipClark@protonMail.com](mailto:contactPhilipClark@protonmail.com)
+
+<br>
+<br>
+
+
+### Interests of mine:
+🖥️  Programming. Hopefully that is apparent, but I do really like it.
+<br>👨‍🦯  Asccessible web design. I think everyone should have access to the web.
+<br>🏋️‍♂️  Exercise and physical activity such as sports, work, hiking, swimming.
+<br>🎮  Video games, particularly puzzel and automotive based games.
+<br>
+<br>
+### Habits I want to develop:
+📚 Reading. I love it, but I don't have a habit of reading.
+<br>🏋️ Exercising.I used to have a good routine, but I need to get back to it.
+<br>⌨️ Typing practice. I could use a little improvement.
 <br><br>
+### My proudest Development work:
+🔹[My Portfolio](philip-clark.github.io) -- [view repository](https://github.com/Philip-Clark/philip-clark.github.io)
+<br>🔹[Airbnb clone (WIP)](https://philip-clark.github.io/airbnb-clone/) -- [view repository](https://github.com/Philip-Clark/airbnb-clone)
+<br>🔹[Trip planning app](https://github.com/Philip-Clark/trip-planner)
+<br><br>
+### 'Social' links: 
+[ContactPhilipClark@protonMail.com](mailto:contactPhilipClark@protonMail.com)
+<br>[LinkedIn](https://www.linkedin.com/in/-philip-clark/)
+<br><br>
+<!-- ## Stats: -->
+
+
+<!-- <br><br><br>
+![620A4608](https://user-images.githubusercontent.com/56705400/173844493-32980f1e-b68c-4024-99e3-c227385179e6.jpg) -->
+
+<!-- <br><br>
 Feel free to look through some of my repositories.
 
 # [My Website](https://github.com/Philip-Clark/philip-clark.github.io)
@@ -23,7 +54,7 @@ Feel free to look through some of my repositories.
 # [Quotrr](https://github.com/Philip-Clark/Quotrr)
 
 
-# [SimpleAndroidClockApp](https://github.com/Philip-Clark/SimpleAndroidClockApp)
+# [SimpleAndroidClockApp](https://github.com/Philip-Clark/SimpleAndroidClockApp) -->
 
 
 
