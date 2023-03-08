@@ -20,7 +20,7 @@ I'm looking to launch my career with a purpose driven company that utilizes indu
 <br>⌨️ Typing practice. I could use a little improvement.
 <br><br>
 ### My proudest Development work:
-🔹[My Portfolio](philip-clark.github.io) -- [view repository](https://github.com/Philip-Clark/philip-clark.github.io)
+🔹[My Portfolio](https://philip-clark.github.io) -- [view repository](https://github.com/Philip-Clark/philip-clark.github.io)
 <br>🔹[Airbnb clone (WIP)](https://philip-clark.github.io/airbnb-clone/) -- [view repository](https://github.com/Philip-Clark/airbnb-clone)
 <br>🔹[Trip planning app](https://github.com/Philip-Clark/trip-planner)
 <br><br>
