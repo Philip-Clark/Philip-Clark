@@ -11,13 +11,9 @@ I'm looking to launch my career with a purpose driven company that utilizes indu
 🖥️  Programming. Hopefully that is apparent, but I do really like it.
 <br>👨‍🦯  Asccessible web design. I think everyone should have access to the web.
 <br>🏋️‍♂️  Exercise and physical activity such as sports, work, hiking, swimming.
-<br>🎮  Video games, particularly puzzel and automotive based games.
+
 <br>
-<br>
-### Habits I want to develop:
-📚 Reading. I love it, but I don't have a habit of reading.
-<br>🏋️ Exercising.I used to have a good routine, but I need to get back to it.
-<br>⌨️ Typing practice. I could use a little improvement.
+
 <br><br>
 ### My proudest Development work:
 🔹[My Portfolio](https://philip-clark.github.io) -- [view repository](https://github.com/Philip-Clark/philip-clark.github.io)
