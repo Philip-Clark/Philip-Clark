@@ -14,22 +14,6 @@ I'm looking to launch my career with a purpose driven company that utilizes indu
 
 <br>
 
-<br><br>
-### My proudest Development work:
-🔹[My Portfolio](https://philip-clark.github.io) -- [view repository](https://github.com/Philip-Clark/philip-clark.github.io)
-<br>🔹[Airbnb clone (WIP)](https://philip-clark.github.io/airbnb-clone/) -- [view repository](https://github.com/Philip-Clark/airbnb-clone)
-<br>🔹[Trip planning app](https://github.com/Philip-Clark/trip-planner)
-<br><br>
-### 'Social' links: 
-[ContactPhilipClark@protonMail.com](mailto:contactPhilipClark@protonMail.com)
-<br>[LinkedIn](https://www.linkedin.com/in/-philip-clark/)
-<br><br>
-## Stats:
-<a href="https://react.org/" target="_blank"><img src="https://img.shields.io/badge/-React.js-white?logo=react&logoColor=00DC82&style=for-the-badge&color=grey" alt="react"/></a>
-<a href="https://php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-white.svg?style=for-the-badge&logo=php&logoColor=777BB4&color=grey" alt="php"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=javascript&color=grey" alt="javascript"/></a>
-
-
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-tailwind css*-white?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge&color=grey" alt="tailwindcss"/></a>
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://img.shields.io/badge/-HTML-white?logo=html5&style=for-the-badge&color=grey" alt="html5"/></a>
 <a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=1572B6&style=for-the-badge&color=grey" alt="css3"/></a>
