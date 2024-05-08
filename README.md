@@ -3,8 +3,8 @@
 <br>
 <br>
 
-**<p align="justify">I'm a junior full-stack web developer with over 2 years of experience (Fun Fact! I have just over 6 years experience programming!).**<br><br>
-I'm looking to launch my career with a purpose-driven company that utilizes industry-leading tools, if you have a position like that, leads on a position, or simply want to chat, feel free to send a connection request on [LinkedIn](https://www.linkedin.com/in/-philip-clark/) or send me an email at: [contactPhilipClark@protonMail.com](mailto:contactPhilipClark@protonmail.com)</p>
+**I'm a junior full-stack web developer with over 2 years of experience (Fun Fact! I have just over 6 years experience programming!).**<br><br>
+I'm looking to launch my career with a purpose-driven company that utilizes industry-leading tools, if you have a position like that, leads on a position, or simply want to chat, feel free to send a connection request on [LinkedIn](https://www.linkedin.com/in/-philip-clark/) or send me an email at: [contactPhilipClark@protonMail.com](mailto:contactPhilipClark@protonmail.com)
 
 <br>
 <br>
