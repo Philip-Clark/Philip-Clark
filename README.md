@@ -4,7 +4,10 @@
 I'm looking to launch my career with a purpose driven company that utilizes industry leading tools, if you have a position like that, leads on a position, or simply want to chat, feel free to send a connection request on [LinkedIn](https://www.linkedin.com/in/-philip-clark/) or send me an email at: [contactPhilipClark@protonMail.com](mailto:contactPhilipClark@protonmail.com)
 
 <br>
-<br>
+<be>
+  
+### Checkout my site [here](https://philip-clark.github.io/)
+
 
 
 ### Interests of mine:
