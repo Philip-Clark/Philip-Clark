@@ -15,7 +15,7 @@ Thanks for visiting my profile! I'm a Christian guy who gets a lot of satisfacti
 
 * 🌍  I'm based in Kentucky! 🏇
 * 🖥️  See my portfolio at [Philip-Clark.github.io](http://philip-clark.github.io)
-* ✉️  You can contact me at [philip@etownmd.com](mailto:philip@etownmd.com)
+* ✉️  You can contact me at [contactphilipclark@protonmail.com.com](mailto:contactphilipclark@protonmail.com)
 
 
 <br>
